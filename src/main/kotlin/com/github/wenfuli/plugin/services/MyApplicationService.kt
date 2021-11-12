@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wenfuli.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wenfuli.plugin.MyBundle
 
 class MyApplicationService {
 
